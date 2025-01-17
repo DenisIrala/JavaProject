@@ -8,7 +8,7 @@ It offers seven menu options:\
     4- Print the schedule of an TA\
     5- Print the schedule of a Student\
     6- Delete a Lecture\
-    7- Exit\
+    7- Exit
 
 ## Additional Features
 - Extensive use of inheritance:

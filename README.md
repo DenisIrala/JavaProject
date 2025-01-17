@@ -14,10 +14,10 @@ It offers seven menu options:
 - Extensive use of inheritance:
   - Numerous error types inherited from the Exception class and used to validate data. (IdException, PersonNotFoundException, and LectureAlreadyAssigned)
   - 4 different classes used to manage people
-   - Person (Abstract)
-    - Faculty
-    - Student
-      - TA (Extends Student)
+    - Person (Abstract)
+      - Faculty
+      - Student
+        - TA (Extends Student)
 
 
 
